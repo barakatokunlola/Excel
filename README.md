@@ -86,14 +86,10 @@ The preparation process included:
  •  **Month extraction:** Extracted month names from transaction dates to support monthly analysis.
  
  •  **Data organisation:** Structured the dataset into a consistent tabular format suitable for PivotTables and visualisation.
- 
-The prepared dataset provided a consistent foundation for the subsequent analysis.
-
-The sales dataset was reviewed and prepared for analysis using Microsoft Excel.
 
 
 ![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
-Cleaned Dataset
+**Cleaned Dataset**
 
 
 ## Data Analysis
@@ -113,22 +109,22 @@ Profit margin was calculated as total profit divided by total revenue.
 
 ### B. Product Profitability
 Products were compared based on their contribution to total profit to identify the strongest product performers.
-The analysis identified Laptop A13 as the highest-profit product, generating ₦105,336,000 in profit.
+The analysis identified **Laptop A13** as the highest-profit product, generating **₦105,336,000** in profit.
 This analysis helps management understand which products make the largest contributions to profitability and which products may deserve greater attention in inventory and sales planning.
 
 ### C. Sales Representative Performance
 Revenue was compared across sales representatives to identify the highest revenue contributors.
-Peter generated the highest revenue, with ₦434,805,000.
+**Peter** generated the highest revenue, with **₦434,805,000**.
 This comparison provides a basis for evaluating sales performance, identifying effective sales practices, and determining where additional support or training may be useful.
 
 ### D. Geographic Cost Analysis
 Cost of goods sold was compared across cities to identify locations with the largest cost contributions.
-Lagos recorded the highest COGS at ₦493,812,000.
+**Lagos** recorded the highest COGS at **₦493,812,000**.
 This finding highlights the importance of examining the factors driving costs in different locations before making operational or resource-allocation decisions.
 
 ### E. Monthly Sales Activity
 Monthly transaction counts were examined to understand how recorded sales activity varied over the period.
-April recorded the highest number of sales records, with 536, while May recorded the lowest, with 18.
+**April** recorded the highest number of sales records, with **536**, while **May** recorded the lowest, with **18**.
 The unusually low May count warrants further investigation to establish whether it reflects incomplete data, a partial reporting period, or an actual decline in sales activity.
 
 ### F. Customer and Sales Channel Analysis
@@ -139,17 +135,17 @@ These dimensions can help management understand differences between retail and c
 ## Key Insights
 The analysis produced the following findings:
 
-**• Strong overall revenue:** The business generated ₦2.328 billion in revenue across 2,098 sales records.
+**• Strong overall revenue:** The business generated **₦2.328 billion** in revenue across **2,098** sales records.
 
-**• Positive profitability:** Total profit was ₦465.674 million, representing a 20% profit margin.
+**• Positive profitability:** Total profit was **₦465.674 million**, representing a **20%** profit margin.
 
-**• Leading product:** Laptop A13 was the highest-profit product, contributing ₦105.336 million.
+**• Leading product:** **Laptop A13** was the highest-profit product, contributing **₦105.336 million**.
 
-**• Top revenue contributor:** Peter generated ₦434.805 million in revenue, making him the highest revenue-generating sales representative.
+**• Top revenue contributor:** Peter generated **₦434.805 million** in revenue, making him the highest revenue-generating sales representative.
 
-**• Geographic cost concentration:** Lagos recorded the highest COGS at ₦493.812 million, making it an important location for further cost analysis.
+**• Geographic cost concentration:** Lagos recorded the highest COGS at **₦493.812 million**, making it an important location for further cost analysis.
 
-**• Uneven monthly activity:** April recorded 536 sales records, compared with only 18 in May. This substantial difference should be investigated before drawing conclusions about sales performance.
+**• Uneven monthly activity:** **April** recorded **536** sales records, compared with only **18** in **May**. This substantial difference should be investigated before drawing conclusions about sales performance.
 
 
 ## Recommendations
