@@ -53,7 +53,7 @@ The preparation process included:
 The prepared dataset provided a consistent foundation for the subsequent analysis.
 The sales dataset was reviewed and prepared for analysis using Microsoft Excel.
 
-![Data Cleaning](./Sales Table.PNG)
+![Sales Table](./Sales20%Table201%.PNG)
 
 ## Data Analysis
 I used PivotTables, formulas, and comparative analysis to investigate sales performance across several business dimensions.
