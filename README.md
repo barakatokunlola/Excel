@@ -51,6 +51,9 @@ The preparation process included:
  •  **Month extraction:** Extracted month names from transaction dates to support monthly analysis.
  •  **Data organisation:** Structured the dataset into a consistent tabular format suitable for PivotTables and visualisation.
 The prepared dataset provided a consistent foundation for the subsequent analysis.
+The sales dataset was reviewed and prepared for analysis using Microsoft Excel.
+
+![Excel Data Cleaning](images/sales table.png)
 
 ## Data Analysis
 I used PivotTables, formulas, and comparative analysis to investigate sales performance across several business dimensions.
