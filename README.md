@@ -135,7 +135,9 @@ These dimensions can help management understand differences between retail and c
 Pivot Tables and Charts
 
 
-![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
+
+![image alt](https://github.com/barakatokunlola/Sales-Performance-Analysis/blob/cc0bcc654db098dba2d140b6f82a08f605037a3c/Sales%20Dashboard.PNG))
+Sales Dashboard
 
 
 ## Key Insights
