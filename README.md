@@ -1,4 +1,4 @@
-# Sales Performance Analysis Using Microsoft Excel
+# Sales Performance Analysis Using Excel
 
 ## Introduction
 
@@ -17,11 +17,17 @@ This project addresses these challenges by analysing sales transactions to ident
 
 ## Business Questions
 The analysis was guided by the following business questions:
+
  • What are the company’s total revenue, cost of goods sold (COGS), and profit?
+ 
  • Which products generate the highest profit?
+ 
  • Which sales representatives contribute the most to total revenue?
+ 
  • Which cities account for the highest cost of goods sold?
+ 
  • How does the number of recorded sales transactions vary across months?
+ 
  • What insights can these performance indicators provide to support business decision-making?
 
 ## Data Source
