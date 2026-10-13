@@ -55,28 +55,46 @@ The dataset includes information on:
 ## Tools Used
 ### Microsoft Excel
 Excel was used throughout the project for:
+
  • Data cleaning and preparation.
+ 
  • Formula-based calculations.
+ 
  • Exploratory data analysis.
+ 
  • Pivot table analysis.
+ 
  • Data visualisation.
+ 
  • Interactive dashboard development.
+ 
 Key Excel features included formulas, PivotTables, charts, and dashboard filtering controls.
+
 
 ## Data Cleaning and Preparation
 Before conducting the analysis, I prepared the dataset to improve its consistency and usability.
 The preparation process included:
+
  •  **Data inspection:** Reviewed the dataset structure, column names, data types, and available fields.
+ 
  •  **Data quality checks:** Examined the records for missing values, duplicates, and inconsistent entries.
+ 
  •  **Data type validation:** Ensured that dates, prices, quantities, and financial values were represented appropriately.
+ 
  •  **Calculated fields:** Used formulas to derive cost price, revenue, cost of goods sold, and profit.
+ 
  •  **Month extraction:** Extracted month names from transaction dates to support monthly analysis.
+ 
  •  **Data organisation:** Structured the dataset into a consistent tabular format suitable for PivotTables and visualisation.
+ 
 The prepared dataset provided a consistent foundation for the subsequent analysis.
+
 The sales dataset was reviewed and prepared for analysis using Microsoft Excel.
 
 
 ![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
+
+
 
 ## Data Analysis
 I used PivotTables, formulas, and comparative analysis to investigate sales performance across several business dimensions.
@@ -90,6 +108,7 @@ The analysis produced the following headline metrics:
 |Total Profit               | ₦465,674,000   |
 |Number of Sales Records    | 2,098          |
 |Profit Margin              | 20%            |
+
 Profit margin was calculated as total profit divided by total revenue.
 
 ### B. Product Profitability
@@ -116,29 +135,44 @@ The unusually low May count warrants further investigation to establish whether 
 The dataset also supports comparisons by customer type and sales channel.
 These dimensions can help management understand differences between retail and corporate transactions and evaluate how online and store-based sales contribute to revenue and profitability.
 
+
 ## Key Insights
 The analysis produced the following findings:
+
 **• Strong overall revenue:** The business generated ₦2.328 billion in revenue across 2,098 sales records.
+
 **• Positive profitability:** Total profit was ₦465.674 million, representing a 20% profit margin.
+
 **• Leading product:** Laptop A13 was the highest-profit product, contributing ₦105.336 million.
+
 **• Top revenue contributor:** Peter generated ₦434.805 million in revenue, making him the highest revenue-generating sales representative.
+
 **• Geographic cost concentration:** Lagos recorded the highest COGS at ₦493.812 million, making it an important location for further cost analysis.
+
 **• Uneven monthly activity:** April recorded 536 sales records, compared with only 18 in May. This substantial difference should be investigated before drawing conclusions about sales performance.
+
 
 ## Recommendations
 Based on the findings, the following actions are recommended:
+
 **• Strengthen High-Profit Product Strategies**
 Review the sales performance, stock availability, and customer demand for Laptop A13 to understand the factors behind its strong profit contribution. Apply the findings to product planning where appropriate.
+
 **• Investigate Geographic Costs**
 Examine the cost drivers behind Lagos’s high COGS. Compare sales volumes, product mix, purchasing costs, and other relevant expenses before deciding whether cost-reduction measures are necessary.
+
 **• Learn from High-Performing Sales Representatives**
 Review the sales approaches and customer segments associated with Peter’s revenue performance. Share effective practices with the wider sales team while also considering differences in sales opportunities and assigned responsibilities.
+
 **• Investigate the May Reporting Gap**
 Verify the completeness of May’s records and confirm whether the month covers a full reporting period. Resolve any reporting issues before using monthly comparisons to make business decisions.
+
 **• Improve Customer and Channel Strategies**
 Compare profitability across retail and corporate customers and between online and store transactions. Use the results to prioritise profitable customer segments and effective sales channels.
+
 **• Monitor Business Performance Regularly**
 Use the dashboard to track revenue, COGS, profit, product performance, sales representative contributions, and monthly sales activity. Regular monitoring can help management identify emerging issues and respond promptly.
+
 
 ## Conclusion
 This project demonstrates how Microsoft Excel can be used to transform sales transaction data into meaningful business insights.
