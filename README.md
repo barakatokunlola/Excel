@@ -1,13 +1,18 @@
 # Sales Performance Analysis Using Microsoft Excel
 
 ## Introduction
+
 This project focuses on analysing sales data to evaluate business performance, identify revenue and profit drivers, and uncover trends across products, regions, customer types, sales representatives, and sales channels.
+
 Using Microsoft Excel, I cleaned and organised the dataset, performed exploratory and descriptive analysis, and developed an interactive dashboard to present key performance indicators and business insights.
+
 The objective was to transform raw sales records into meaningful information that can help management understand business performance, identify opportunities for improvement, and make data-driven decisions.
 
 ## Problem Statement
 Businesses generate sales data through daily transactions, but raw data alone does not provide a clear understanding of business performance.
+
 Without proper analysis, management may struggle to determine which products generate the most profit, which locations contribute most to operating costs, how sales representatives perform, and how sales activity changes over time.
+
 This project addresses these challenges by analysing sales transactions to identify performance patterns, highlight areas requiring attention, and provide actionable recommendations for improving profitability and sales performance.
 
 ## Business Questions
