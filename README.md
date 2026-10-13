@@ -131,6 +131,10 @@ The unusually low May count warrants further investigation to establish whether 
 The dataset also supports comparisons by customer type and sales channel.
 These dimensions can help management understand differences between retail and corporate transactions and evaluate how online and store-based sales contribute to revenue and profitability.
 
+![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
+
+![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
+
 
 ## Key Insights
 The analysis produced the following findings:
