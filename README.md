@@ -1,4 +1,4 @@
-# Sales Performance Analysis Using Excel
+# Sales Performance Analysis 
 
 ## Introduction
 
@@ -93,7 +93,7 @@ The sales dataset was reviewed and prepared for analysis using Microsoft Excel.
 
 
 ![image alt](https://github.com/barakatokunlola/Excel/blob/1f1959869f3a5b71178245ad59a588ee7735af86/Sales%20Table.PNG)
-
+Cleaned Dataset
 
 
 ## Data Analysis
