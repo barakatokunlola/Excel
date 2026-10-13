@@ -143,7 +143,7 @@ The analysis produced the following findings:
 
 **• Top revenue contributor:** Peter generated **₦434.805 million** in revenue, making him the highest revenue-generating sales representative.
 
-**• Geographic cost concentration:** Lagos recorded the highest COGS at **₦493.812 million**, making it an important location for further cost analysis.
+**• Geographic cost concentration:** **Lagos** recorded the highest COGS at **₦493.812 million**, making it an important location for further cost analysis.
 
 **• Uneven monthly activity:** **April** recorded **536** sales records, compared with only **18** in **May**. This substantial difference should be investigated before drawing conclusions about sales performance.
 
