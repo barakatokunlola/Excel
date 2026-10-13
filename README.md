@@ -8,12 +8,14 @@ Using Microsoft Excel, I cleaned and organised the dataset, performed explorator
 
 The objective was to transform raw sales records into meaningful information that can help management understand business performance, identify opportunities for improvement, and make data-driven decisions.
 
+
 ## Problem Statement
 Businesses generate sales data through daily transactions, but raw data alone does not provide a clear understanding of business performance.
 
 Without proper analysis, management may struggle to determine which products generate the most profit, which locations contribute most to operating costs, how sales representatives perform, and how sales activity changes over time.
 
 This project addresses these challenges by analysing sales transactions to identify performance patterns, highlight areas requiring attention, and provide actionable recommendations for improving profitability and sales performance.
+
 
 ## Business Questions
 The analysis was guided by the following business questions:
@@ -30,16 +32,25 @@ The analysis was guided by the following business questions:
  
  • What insights can these performance indicators provide to support business decision-making?
 
+
 ## Data Source
 The dataset used for this project is an Excel sales dataset containing 2,098 sales records and 15 columns.
 The dataset includes information on:
+
  • **Date and Time:** Transaction date and month.
+ 
  • **Geography:** Region and city.
+ 
  • **Customer Information:** Customer type, including retail and corporate customers.
+ 
  • **Sales Channel:** Online and store transactions.
+ 
  • **Product Information:** Product names and categories.
+ 
  • **Pricing and Quantity:** Unit price and quantity sold.
+ 
  • **Sales Performance:** Sales representatives, revenue, cost of goods sold, and profit.
+ 
  
 ## Tools Used
 ### Microsoft Excel
